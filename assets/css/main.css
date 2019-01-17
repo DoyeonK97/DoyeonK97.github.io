@@ -2855,12 +2855,12 @@
 			}
 
 			.tiles article:nth-child(n) {
-				width: 33.33%;
+				width: 50%;
 			}
 			
 
-			.tiles article:nth-child(5n - 1), .tiles article:nth-child(6n - 1){
-				width: 50%;
+			.tiles article:nth-child(4n - 1){
+				width: 100%;
 			}
 
 <!--
